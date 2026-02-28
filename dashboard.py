@@ -21,7 +21,7 @@ st.markdown("""
 
 # --- HEADER SECTION ---
 st.title("🛡️ SentinelShield: Advanced Intrusion Detection")
-st.subheader(f"Security Analyst: Your Name Here") # <-- ADD YOUR NAME HERE
+st.subheader(f"Security Analyst: Tejas Bansode") # <-- ADD YOUR NAME HERE
 st.markdown("---")
 
 # --- DATA PROCESSING (Source 35: Categorize alerts) ---
