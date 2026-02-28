@@ -1,0 +1,5 @@
+sentinel_shield_REAL.log
+__pycache__/
+.venv/
+*.pyc
+.DS_Store
